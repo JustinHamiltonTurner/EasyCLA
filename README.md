@@ -12,3 +12,5 @@ You can find [detailed information here](https://github.com/FinOps-Open-Cost-and
 
 If your company benefits from FinOps Open Cost and Usage Specification and you would like to provide essential financial support for the systems and people that power our community, please also consider membership in the [FinOps Foundation](https://www.finops.org/membership/). 
 
+
+
